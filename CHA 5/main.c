@@ -6,7 +6,7 @@ int main()
     float F,C;
 
     printf("La température en F: \n");
-    scanf("%f", &C);
+    scanf("%f", &F);
 
     C=(F-32)/1.8;
 
